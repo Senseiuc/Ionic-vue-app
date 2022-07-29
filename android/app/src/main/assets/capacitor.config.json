@@ -1,0 +1,6 @@
+{
+	"appId": "org.atticgolden.vueIonicMemories",
+	"appName": "VueIonic Memories",
+	"webDir": "public",
+	"bundledWebRuntime": false
+}
